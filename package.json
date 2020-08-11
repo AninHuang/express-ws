@@ -1,0 +1,23 @@
+{
+  "name": "express-ws",
+  "version": "1.0.0",
+  "description": "使用 Web 框架的 Express.js 和 ws(Node.js WebSocket library) 搭建 WebSocket 環境",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AninHuang/express-ws.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AninHuang/express-ws/issues"
+  },
+  "homepage": "https://github.com/AninHuang/express-ws#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "ws": "^7.3.1"
+  }
+}
